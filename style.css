@@ -1,0 +1,37 @@
+body{
+    font-family: 'Spartan', sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+}
+
+.stars{
+    background-color: hsl(333, 80%, 67%);
+    margin: 5rem;
+    border-radius: 15px;
+}
+
+.reviews{
+    background-color: hsl(300, 43%, 22%);
+    color: white;
+    margin: 5rem;
+    border-radius: 25px;
+    padding: 1rem;
+    
+
+}
+
+.report{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    text-align: center;
+    padding-left: 5rem;
+}
+
+.rate{
+
+}
